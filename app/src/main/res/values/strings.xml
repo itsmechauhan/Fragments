@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">fragments</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="first">this is the first Fragment in our Fragments</string>
+    <string name="second">this is the second Fragment in our Fragments that has been created by CJ</string>
+
+    <string name="lorem_ipsum">
+        this is the default text
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="second_frag">Second Frag</string>
+    <string name="first_frag">First Frag</string>
+    <string name="third_frag">Third Frag</string>
+    <string name="third_text">Hello this is the third fragment Created by Himanshu</string>
+    <string name="default_text">"""Hello User
+    this is the default Fragment/ page for you app
+    This will be displayed
+               By Default BY DEVELOPER - Himanshu Chauhan"""</string>
+    <string name="default_frag">Default Frag</string>
+    <string name="clear">clear</string>
+
+
+</resources>
